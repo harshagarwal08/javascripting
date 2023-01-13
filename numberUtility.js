@@ -1,8 +1,8 @@
-let input = 143
+let input = 14
 const checkPrime = (input) => {
     let isPrime = true;
-    for (let i = 2; i < input/2; i++) {
-        if (input % i == 0) {
+    for (let it = 2; it < input/2; it++) {
+        if (input % it == 0) {
             isPrime = false;
             break;
         }   
