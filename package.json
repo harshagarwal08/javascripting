@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harshagarwal08/javascripting/issues"
   },
-  "homepage": "https://github.com/harshagarwal08/javascripting#readme"
+  "homepage": "https://github.com/harshagarwal08/javascripting#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
 }
